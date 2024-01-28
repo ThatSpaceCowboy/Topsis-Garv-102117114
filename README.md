@@ -1,8 +1,8 @@
-# TOPSIS-Dhruv-102117061
+# Topsis-Garv-102117061
 
 ## Overview
 
-The `TOPSIS-Garv-102117114` package is a specialized Python tool designed for conducting TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis on datasets. TOPSIS is an effective multi-criteria decision-making method that helps in evaluating and ranking alternatives by measuring their closeness to the ideal solution.
+The `Topsis-Garv-102117114` package is a specialized Python tool designed for conducting TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis on datasets. TOPSIS is an effective multi-criteria decision-making method that helps in evaluating and ranking alternatives by measuring their closeness to the ideal solution.
 
 ## Features
 
@@ -17,7 +17,7 @@ The `TOPSIS-Garv-102117114` package is a specialized Python tool designed for co
 To install the package, use the following pip command:
 
 ```bash
-pip install TOPSIS-Garv-102117114
+pip install Topsis-Garv-102117114
 ```
 Example
 To run a TOPSIS analysis with specified weights and impacts on your dataset, use
